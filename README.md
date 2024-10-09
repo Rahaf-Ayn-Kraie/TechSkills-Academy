@@ -1,6 +1,6 @@
 # TechSkills-Academy
 
-## dis
+## Description
 This academy offers AI courses to develop students' technical skills and prepare them for the current market.
 
 
