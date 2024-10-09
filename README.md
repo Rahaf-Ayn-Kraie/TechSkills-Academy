@@ -1,13 +1,15 @@
 # TechSkills-Academy
 
 ## dis
+This academy offers AI courses to develop students' technical skills and prepare them for the current market.
 
 
 ## Live Demo
 
-You can check out the live demo of the **TechSkills Academy** website here:  
+You can check out the live demo of the **TechSkills Academy** website here: 
+## Easy access
 [TechSkills Academy Demo](https://rahaf-ayn-kraie.github.io/TechSkills-Academy/)
-
+## The available courses
 ![Screenshot 2024-09-26 060515](https://github.com/user-attachments/assets/f4d5e51e-9265-4228-b15d-2cfdea801d08)![Screenshot 2024-10-08 124413](https://github.com/user-attachments/assets/f7e52892-0195-48ad-ab7b-d40148c33e49)
 
 ## IDEs/Editors
